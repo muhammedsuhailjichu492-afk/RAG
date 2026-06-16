@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Deep Learning uses neural networks with many layers to analyze data.
+Python is the most popular programming language for AI and ML development.
+Ollama allows you to run large language models locally on your own machine.
+RAG stands for Retrieval Augmented Generation — it combines search with LLM answers.
+ChromaDB is a vector database used to store and search embeddings efficiently.

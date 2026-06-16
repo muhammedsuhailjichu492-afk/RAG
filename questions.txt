@@ -1,0 +1,5 @@
+How do I build a Library Management System?
+How do I create an AI Resume Screening System?
+How do I build a Bank Management System?
+How do I implement Face Recognition Attendance?
+How do I build a Stroke Prediction System?

@@ -1,0 +1,52 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+Machine Learning is a subset of AI that allows systems to learn from data.
+Deep Learning uses neural networks with many layers to analyze data.
+Python is the most popular programming language for AI and ML development.
+Ollama allows you to run large language models locally on your own machine.
+RAG stands for Retrieval Augmented Generation — it combines search with LLM answers.
+ChromaDB is a vector database used to store and search embeddings efficiently.
+
+Python lists are created using square brackets: my_list = [1, 2, 3].
+A Python function is defined using the def keyword: def my_function(): pass.
+A for loop in Python iterates over a sequence: for i in range(10): print(i).
+A dictionary in Python stores key-value pairs: my_dict = {"key": "value"}.
+Classes in Python are defined using the class keyword and support inheritance.
+List comprehension in Python: squares = [x**2 for x in range(10)].
+To read a file in Python: with open("file.txt", "r") as f: content = f.read().
+pip is the package manager for Python: pip install package_name.
+Virtual environments in Python isolate dependencies: python -m venv venv.
+FastAPI is a modern Python web framework for building APIs quickly.
+NumPy is a Python library for numerical computing with arrays and matrices.
+Pandas is a Python library for data manipulation and analysis using DataFrames.
+A REST API uses HTTP methods: GET, POST, PUT, DELETE to manage resources.
+JSON is a lightweight data format used for exchanging data between systems.
+
+How do you reverse a list in Python?
+Answer: Use my_list.reverse() to reverse in place, or reversed_list = my_list[::-1] for a new list.
+
+How do you check if a key exists in a dictionary?
+Answer: Use the 'in' keyword: if "key" in my_dict: print("exists").
+
+How do you sort a list in Python?
+Answer: Use my_list.sort() to sort in place, or sorted_list = sorted(my_list) for a new sorted list.
+
+How do you handle exceptions in Python?
+Answer: Use try/except blocks: try: risky_code() except Exception as e: print(e).
+
+How do you install a package in Python?
+Answer: Use pip: pip install package_name. For a specific version: pip install package_name==1.0.0.
+
+How do you create a FastAPI endpoint?
+Answer: Use decorators: @app.get("/path") def my_endpoint(): return {"message": "Hello"}.
+
+How do you connect to a database in Python?
+Answer: Use SQLAlchemy: from sqlalchemy import create_engine. engine = create_engine("sqlite:///db.sqlite3").
+
+How do you read a CSV file in Python?
+Answer: Use pandas: import pandas as pd. df = pd.read_csv("file.csv"). print(df.head()).
+
+How do you create a virtual environment in Python?
+Answer: Run python -m venv venv, then activate it with venv\Scripts\activate on Windows.
+
+How do you merge two dictionaries in Python?
+Answer: Use the ** operator: merged = {**dict1, **dict2}. In Python 3.9+: merged = dict1 | dict2.
